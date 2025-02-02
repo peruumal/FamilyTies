@@ -12,16 +12,3 @@ author:
 
 # Jekyll Settings
 theme: minima  # The theme you're using (e.g., minima, jekyll-theme-cayman)
-plugins:
-  - jekyll-feed  # Optional plugin for RSS feed
-
-# Build Settings
-markdown: kramdown  # Markdown processor
-highlighter: rouge  # Syntax highlighter
-permalink: pretty  # URL structure for posts
-
-# Optional Customization
-social:
-  - name: GitHub
-    icon: github
-    url: https://github.com/peruumal
