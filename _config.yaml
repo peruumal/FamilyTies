@@ -11,4 +11,4 @@ author:
   github: "peruumak"  # Your GitHub username
 
 # Jekyll Settings
-theme: jekyll-theme-minimal # The theme you're using (e.g., minima, jekyll-theme-cayman)
+theme: jekyll-theme-midnight # The theme you're using (e.g., minima, jekyll-theme-cayman)
