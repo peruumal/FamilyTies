@@ -10,5 +10,5 @@ author:
   email: "m.peruumal@gmail.com"
   github: "peruumal"  # Your GitHub username
 
-Jekyll Settings
+#Jekyll Settings
 theme: jekyll-theme-midnight # The theme you're using (e.g., minima, jekyll-theme-cayman)
